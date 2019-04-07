@@ -1,0 +1,31 @@
+\title{Motivational Letter}
+\documentclass[11pt,stdletter,orderfromtodate,sigleft]{newlfm}
+\usepackage{blindtext, xfrac}
+\usepackage[T1]{fontenc} 
+\usepackage[utf8]{inputenc}
+
+\newlfmP{dateskipbefore=10pt}
+\newlfmP{sigsize=10pt}
+\newlfmP{sigskipbefore=10pt}
+ 
+\newlfmP{Headlinewd=0pt,Footlinewd=0pt}
+ 
+ 
+\dateset{February 18 2019}
+
+\greetto{To Disney Research,}
+\begin{document}
+\begin{newlfm}
+I have been working with computers all my life, and I especially love when the technology is combined with art somehow. I started studying computer science at university and ended up learning a lot about AI, and I did a few projects in the area of natural language processing and machine learning. I also got into photography, a skill that turned out to be useful when working with graphics later on. After university I went on becoming a software engineer for bank clients and such. A different world where I learned a lot about solving problems on a larger scale than before, however I am looking for something more creative where the solutions are unknown and preferably associated with something artistic, such as films or architecture. 
+
+Apart from programming and problem solving I am quite fond of working in Blender or in Maya to create realisitc scenes. 
+
+If I could choose to work on any project I wanted, it would be to develop real-time path tracing (I think we will see this happening in the decade to come) or to improve existing character animations with AI methods.
+
+Best regards,
+Martin Pettersson
+
+Website: mpett.github.io or martinpettersson.se
+
+\end{newlfm}
+\end{document}
